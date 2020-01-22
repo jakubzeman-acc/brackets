@@ -6,7 +6,9 @@ Write a function:
 
 that, given a string S consisting of N characters returns true if:
 * S is empty;
-* count of '(' characters is the same as count of ')' characters ;
+* count of '(' characters is the same as count of ')' characters.
+
+The function retruns false if count of '(' characters doesn't equal to count of ')' characters.
 
 For example:
 * for given string ")(()" the function returns true.
