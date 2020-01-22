@@ -1,2 +1,2 @@
-def solution(A: str) -> bool:
+def solution(S: str) -> bool:
     pass
